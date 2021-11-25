@@ -1,0 +1,50 @@
+body{
+
+background-color: #DAD0C2;
+
+}
+
+.first {
+   border-color: black;
+   border-style: solid;
+   border-style: dashed;
+   border-width: thin;
+   width: 20%;
+
+}
+.second{
+border-color: black;
+border-style: solid;
+
+width: 80%;
+
+}
+
+table{
+      border-color: red;
+
+}
+h1{
+  color: #483434;
+}
+h2{
+color: #483434;
+
+}
+h3{
+  color: #483434;
+}
+
+.education{
+  background-color: white;
+}
+h2:hover{
+  color: red;
+}
+.white{
+  background-color: white;
+  width: 400px;
+}
+.distance{
+  margin-bottom: 10px;
+}
